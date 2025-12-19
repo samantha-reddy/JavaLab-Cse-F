@@ -22,7 +22,7 @@ System.out.println("boolean="+bool);
 }
 ```
 #output
-![EXPERIMENT 1 OUTPUT]
+![screenshot](exp_1a.output_png)
 (exp 1a.output.png)
 ## TITLE: 1b.) Display the quadratic roots
 ```
@@ -58,5 +58,4 @@ System.out.println("Root2"+real+"-i"+imaginary);
 }
 ```
 #output
-![EXPERIMENT 1 OUTPUT]
-(exp 1b.output.png)
+![screenshot](exp_1b_output.png)
