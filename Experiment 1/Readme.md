@@ -1,5 +1,5 @@
-> ## experiment1
-> ## TITLE: 1a.) Display the primitive datatypes
+> ## Experiment1
+> # TITLE: 1a.) Display the primitive datatypes
 ```
 class Datatypes {
 static byte b;
@@ -24,7 +24,7 @@ System.out.println("boolean="+bool);
 > # output
 ![screenshot](exp_1a.output_png)
 
-> ## TITLE: 1b.) Display the quadratic roots
+> # TITLE: 1b.) Display the quadratic roots
 ```
 import java.util.Scanner;
 class QuadraticRoots{
