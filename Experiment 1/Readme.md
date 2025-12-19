@@ -10,7 +10,7 @@ static int i;
 static double d;
 static boolean bool;
 public static void main(String[]args){
-System.out.println("default prinitive Datatypes");
+System.out.println("default primitive Datatypes");
 System.out.println("byte="+b);
 System.out.println("short="+s);
 System.out.println("char="+c);
