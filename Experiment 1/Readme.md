@@ -22,7 +22,7 @@ System.out.println("boolean="+bool);
 }
 ```
 > # output
-![screenshot](exp_1a.output_png)
+![screenshot](exp_1a_output_png)
 
 > # TITLE: 1b.) Display the quadratic roots
 ```
