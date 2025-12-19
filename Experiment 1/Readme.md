@@ -23,4 +23,4 @@ System.out.println("boolean="+bool);
 ```
 #output
 ![EXPERIMENT 1 OUTPUT]
-(exp 1a.png)
+(exp 1a output.png)
