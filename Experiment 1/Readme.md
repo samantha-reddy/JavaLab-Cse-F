@@ -1,5 +1,5 @@
-#experiment1
-## TITLE: 1a.) Display the primitive datatypes
+> ## experiment1
+> ## TITLE: 1a.) Display the primitive datatypes
 ```
 class Datatypes {
 static byte b;
@@ -21,10 +21,10 @@ System.out.println("boolean="+bool);
 }
 }
 ```
-#output
+> # output
 ![screenshot](exp_1a.output_png)
-(exp 1a.output.png)
-## TITLE: 1b.) Display the quadratic roots
+
+> ## TITLE: 1b.) Display the quadratic roots
 ```
 import java.util.Scanner;
 class QuadraticRoots{
@@ -57,5 +57,5 @@ System.out.println("Root2"+real+"-i"+imaginary);
 }
 }
 ```
-#output
+> ## output
 ![screenshot](exp_1b_output.png)
