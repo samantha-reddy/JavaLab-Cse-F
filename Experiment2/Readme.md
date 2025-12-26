@@ -19,6 +19,7 @@ System.out.println("sum: " + result);
 # OUTPUT
 ![EXPERIMENT 2 OUTPUT](exp_2a_output.png)
 ## TITLE: 2b.) java program implement method overloading
+```
 class OverloadExample {
 int add(int a, int b) {
 return (a + b);
@@ -39,7 +40,7 @@ System.out.println("Result of adding two double values: " + sum2);
 System.out.println("Result of adding three integers: " + sum3);
 }
 }
-
+```
 # OUTPUT
 ![EXPERIMENT 2 OUTPUT](exp_2b_output.png)
 ## TITLE: 2c.) java program implement constructor
