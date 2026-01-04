@@ -42,4 +42,4 @@ f.generate();
 }
 ```
 # output
-![screenshot](exp_additional2_output)
+![screenshot](exp_additional_2_output)
