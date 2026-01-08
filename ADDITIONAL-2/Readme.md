@@ -1,4 +1,5 @@
-# TITLE: Additional-2.) Implement the sum of fist n fibonacci numbers
+#Additional2
+# TITLE: Additional-2.) Implement the sum of the n fibonacci numbers
 ```
 import java.util.Scanner;
 class Fibonacci {
@@ -42,4 +43,4 @@ f.generate();
 }
 ```
 # output
-![screenshot](exp_additional_2_output)
+![ADDITIONALEXP 2 OUTPUT](exp_additional2_output.png)
