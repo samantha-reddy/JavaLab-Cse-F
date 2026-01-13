@@ -44,4 +44,4 @@ Main.java
 	}
 }
 ```
-![screenshot](exp_3a_output.png)
+![screenshot](exp_3a_output.PNG)
