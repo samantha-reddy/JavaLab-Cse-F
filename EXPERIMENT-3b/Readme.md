@@ -90,4 +90,4 @@ class Main {
 
 }
 # output
-![screenshot](exp_3b_output.png)
+![screenshot](exp_3b_output.PNG)
