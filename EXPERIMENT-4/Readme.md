@@ -72,7 +72,7 @@ class Motorbike extends Bicycle {
         System.out.println("Engine Capacity: " + engineCapacity + " cc");
     }
 }
-lass ElectricBike extends Motorbike {
+class ElectricBike extends Motorbike {
 
     int batteryCapacity;
 
@@ -98,7 +98,7 @@ class TestVehicle {
 }
 ```
 # output
-[!screenshot[(exp_4b_output.png)
+[!screenshot](exp_4b_output.png)
 
 # Experiment
 # TITLE 4c.) write a java program to construct abstract class to find areas of different shapes
