@@ -49,7 +49,7 @@ public class TestEmployee {
 }
 ```
 # output
-[!screenshot](exp_4a_output.png)
+[!screenshot](exp_4a_output.PNG)
 
 # Experiment 4b
 # TITLE 4b.) write a java program to implement multi-level inheritance
@@ -98,7 +98,7 @@ class TestVehicle {
 }
 ```
 # output
-[!screenshot](exp_4b_output.png)
+[!screenshot](exp_4b_output.PNG)
 
 # Experiment
 # TITLE 4c.) write a java program to construct abstract class to find areas of different shapes
@@ -150,4 +150,4 @@ class TestFigure {
 }
 ```
 # output
-[!screenshot](exp_4c_output.png)
+[!screenshot](exp_4c_output.PNG)
