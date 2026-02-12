@@ -1,5 +1,5 @@
-# Experiment 4a
-# TITLE 4a.) Write a java program to implement single inheritance
+# Experiment 4
+# TITLE: 4a.) Write a java program to implement single inheritance
 ```
 class Person {
 
@@ -49,10 +49,10 @@ public class TestEmployee {
 }
 ```
 # output
-[!screenshot](exp_4a_output.PNG)
+![Experiment 4 output](exp_4a_output.PNG)
 
-# Experiment 4b
-# TITLE 4b.) write a java program to implement multi-level inheritance
+# Experiment 4
+# TITLE: 4b.) write a java program to implement multi-level inheritance
 ```
 class Bicycle {
 
@@ -98,10 +98,10 @@ class TestVehicle {
 }
 ```
 # output
-[!screenshot](exp_4b_output.PNG)
+![Experiment 4 output](exp_4b_output.PNG)
 
-# Experiment
-# TITLE 4c.) write a java program to construct abstract class to find areas of different shapes
+# Experiment 4
+# TITLE: 4c.) write a java program to construct abstract class to find areas of different shapes
 ```
 abstract class Figure {
 
@@ -150,4 +150,4 @@ class TestFigure {
 }
 ```
 # output
-[!screenshot](exp_4c_output.PNG)
+![Experiment 4 output](exp_4c_output.PNG)
