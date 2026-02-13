@@ -123,4 +123,4 @@ public class StringBufferDeleteDemo {
 }
 ```
 # output
-![experiment](exp_5c_output.PNG)
+![Experiment](exp_5c_output.PNG)
