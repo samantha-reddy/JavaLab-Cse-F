@@ -103,7 +103,7 @@ public class TestVehicle {
 }
 ```
 # output
-![Experiment 5 output](exp_4b_output.PNG)
+![Experiment 5 output](exp_5b_output.PNG)
 
 # Experiment 5
 # TITLE: 5c.) Delete character using String Buffer
@@ -123,4 +123,4 @@ public class StringBufferDeleteDemo {
 }
 ```
 # output
-![Experiment](exp_5c_output.PNG)
+![Experiment 5 output](exp_5c_output.PNG)
